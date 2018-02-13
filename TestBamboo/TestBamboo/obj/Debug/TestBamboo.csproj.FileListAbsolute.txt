@@ -39,3 +39,4 @@ C:\Users\a4.ilin\Documents\BamboTest\TestBamboo\TestBamboo\bin\Microsoft.AI.Web.
 C:\Users\a4.ilin\Documents\BamboTest\TestBamboo\TestBamboo\obj\Debug\TestBamboo.csproj.CoreCompileInputs.cache
 C:\Users\a4.ilin\Documents\BamboTest\TestBamboo\TestBamboo\obj\Debug\TestBamboo.dll
 C:\Users\a4.ilin\Documents\BamboTest\TestBamboo\TestBamboo\obj\Debug\TestBamboo.pdb
+C:\Users\a4.ilin\Documents\BamboTest\TestBamboo\TestBamboo\obj\Debug\TestBamboo.csprojResolveAssemblyReference.cache
